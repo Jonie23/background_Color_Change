@@ -1,0 +1,13 @@
+#btn{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    cursor: pointer;
+    font-weight: normal;
+    font-size: 2rem;
+    padding: 20px 50px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+
+}
